@@ -6,8 +6,8 @@
 <a href="https://www.youtube.com/watch?v=_GikMdhAhv0&t=58s">How To Install</a><br>
 
 <img src="https://github.com/Ctom0932/AWayHome/blob/master/Tittle%20Screen.png">
-<img src="">
-<img src="">
+<img src="https://github.com/iwang1959/AWayHome/blob/master/Level%204.PNG">
+<img src="https://github.com/iwang1959/AWayHome/blob/master/Ending.PNG">
 
 <hr>
 <p>
