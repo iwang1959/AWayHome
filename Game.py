@@ -558,3 +558,4 @@ while not game.over and mc.health >0:
     
     game.update(30)
 game.quit()
+
